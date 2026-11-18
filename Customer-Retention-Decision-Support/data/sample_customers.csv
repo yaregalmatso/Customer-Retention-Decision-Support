@@ -1,0 +1,21 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,ValueRatio,TenureGroup,Monthly_to_Total_Ratio,Tenure_Charges_Interaction,Total_Charges_to_Monthly_Ratio
+Female,0,Yes,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24.8,24.8,12.4,New,0.9612403100775194,24.8,0.9612403100775194
+Male,0,No,No,41,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),25.25,996.45,23.725,Long,0.02531455210787508,1035.25,37.96
+Female,0,Yes,Yes,52,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.35,1031.7,19.466037735849056,Long,0.01873729059746296,1006.2,50.697788697788695
+Female,0,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,76.35,76.35,38.175,New,0.9870717517776342,76.35,0.9870717517776342
+Male,0,No,No,67,Yes,No,DSL,No,No,No,Yes,No,No,Two year,No,Bank transfer (automatic),50.55,3260.1,47.942647058823525,Long,0.015500904602741407,3386.85,63.241513094083416
+Female,1,Yes,No,68,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),89.6,6127.6,88.80579710144929,Long,0.014619978461638872,6092.799999999999,67.63355408388522
+Female,0,Yes,Yes,23,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),77.15,1759.4,73.30833333333334,Short,0.043825266984776186,1774.45,22.51311580294306
+Male,0,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),72.1,5016.65,68.72123287671232,Long,0.014369276454116967,5191.2,68.62722298221614
+Male,0,No,No,70,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),104.0,7250.15,102.11478873239436,Long,0.014342552560628314,7280.0,69.04904761904761
+Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.4,19.4,9.7,New,0.9509803921568627,19.4,0.9509803921568627
+Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.45,20.45,10.225,New,0.9533799533799534,20.45,0.9533799533799534
+Male,0,Yes,Yes,34,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,84.05,2909.95,83.14142857142856,Medium,0.02887373537848469,2857.7,34.2145796590241
+Male,1,Yes,Yes,28,Yes,Yes,DSL,No,No,No,No,No,No,One year,Yes,Electronic check,51.0,1381.8,47.648275862068964,Medium,0.03688168932600521,1428.0,26.573076923076922
+Female,1,No,No,18,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,85.45,1505.85,79.25526315789473,Short,0.05670770149649933,1538.1000000000001,17.41873915558126
+Female,0,Yes,No,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),20.45,330.8,20.675,Short,0.06163351416515973,306.75,15.421911421911423
+Female,1,No,No,11,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95.15,997.65,83.1375,New,0.09527862614529616,1046.65,10.37597503900156
+Male,0,No,No,11,Yes,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,53.75,608.0,50.666666666666664,New,0.08825944170771757,591.25,11.105022831050228
+Male,0,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.0,70.0,35.0,New,0.9859154929577465,70.0,0.9859154929577465
+Female,0,Yes,Yes,37,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,88.8,3340.55,87.90921052631579,Long,0.02657449387260403,3285.6,37.199888641425396
+Male,0,No,Yes,22,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,89.4,2001.5,87.02173913043478,Short,0.04464419475655431,1966.8000000000002,22.140486725663717
